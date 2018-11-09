@@ -1,4 +1,4 @@
 class Vehicle
-  def initialize(size, number)
+  def initialize(wheen_size, number)
   end
 end
