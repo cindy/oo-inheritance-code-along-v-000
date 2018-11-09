@@ -1,5 +1,5 @@
 class Vehicle
-  attr_reader(:wheel_size)
+  attr_accessor(:wheel_size)
   def initialize(wheel_size, number)
     @wheel_size = wheel_size
     @number = number
